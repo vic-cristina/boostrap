@@ -1,0 +1,8 @@
+.background {
+  background: url(../images/trans-bg.png) center bottom repeat-x;
+  background-size: cover;
+}
+
+.form-text {
+  color: palevioletred;
+}
